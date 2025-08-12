@@ -1,3 +1,52 @@
+# Analyze-Company-XYZ
+# 📊 Analysis of Company XYZ
+
+This project aims to perform an exploratory and integrative analysis of company XYZ's data, using three main datasets: `Employees.csv`, `Departments.csv`, and `New Employees.csv`.
+
+---
+
+## 📁 Datasets Used
+
+| File | Description |
+|------------------------|-----------------------------------------------------------|
+| `Employees.csv` | Contains information on current employees, such as name, age, salary, etc. |
+| `Departments.csv` | Lists the company's departments and their respective managers. |
+| `New Employees.csv` | Data on candidates or recent hires who have not yet been onboarded. |
+
+---
+
+## 🧪 Analysis Objectives
+
+- Verify employee distribution by department
+- Identify potential salary discrepancies
+- Integrate new employee data with current staffing levels
+- Detect missing or inconsistent data
+- Generate insights for strategic HR decisions
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.10+
+- Pandas for data manipulation
+- Jupyter Notebook for interactive documentation
+
+---
+
+## 📈 Analysis Examples
+
+- Number of employees by department
+- Average salary by area
+- Comparison between current and new employees
+- Detection of outliers in salaries and ages
+- Visualization of age distribution
+
+---
+
+
+
+
+
 # Analise-Empresa-XYZ
 # 📊 Análise de Empresa XYZ
 
